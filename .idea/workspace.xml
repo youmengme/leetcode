@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bdd4f2f-362a-482b-93e1-8de7d5a3ef05" name="默认的" comment="" />
+    <list default="true" id="5bdd4f2f-362a-482b-93e1-8de7d5a3ef05" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/articles/leetcode/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kjHxsQgG6YNXxRjeI5AkPjnAJx" />
   <component name="ProjectViewState">
@@ -16,10 +41,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/articles/leetcode" />
     <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/articles/leetcode" />
+      <recent name="$PROJECT_DIR$/articles" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/articles/leetcode" />
+      <recent name="$PROJECT_DIR$/articles" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="js.build_tools.grunt">
@@ -45,14 +82,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606207330414</updated>
-      <workItem from="1606207331453" duration="302000" />
+      <workItem from="1606207331453" duration="4047000" />
+      <workItem from="1606216862460" duration="3434000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="304" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606232754594">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1606232754594" />
     <state x="2301" y="601" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606207621751">
       <screen x="1920" y="-158" width="1080" height="1920" />
     </state>
