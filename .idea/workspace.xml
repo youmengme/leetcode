@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bdd4f2f-362a-482b-93e1-8de7d5a3ef05" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/articles/leetcode/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606207330414</updated>
       <workItem from="1606207331453" duration="4047000" />
-      <workItem from="1606216862460" duration="3434000" />
+      <workItem from="1606216862460" duration="3827000" />
     </task>
     <servers />
   </component>
