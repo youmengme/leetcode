@@ -2,8 +2,13 @@
   "name": "blog",
   "version": "1.0.0",
   "scripts": {
-    "serve": "docsify serve --open"
+    "serve": "docsify serve --open",
+    "deploy": "node ./lib/deploy.js"
   },
   "dependencies": {
+    "chalk": "^4.1.0",
+    "cross-spawn": "^7.0.3",
+    "moment": "^2.29.1",
+    "nunjucks": "^3.2.2"
   }
 }
