@@ -20,17 +20,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bdd4f2f-362a-482b-93e1-8de7d5a3ef05" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/articles/leetcode/1.两数之和.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/leetcode/1.两数之和.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/leetcode/1.两数之和.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/youmengme/leetcode" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1kjHxsQgG6YNXxRjeI5AkPjnAJx" />
   <component name="ProjectViewState">
@@ -59,6 +75,9 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="1.两数之和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/articles/leetcode/1.两数之和.js" working-dir="$PROJECT_DIR$/articles/leetcode">
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="js.build_tools.grunt">
       <node-interpreter value="project" />
       <envs />
@@ -73,6 +92,11 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.1.两数之和.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -83,8 +107,17 @@
       <option name="presentableId" value="Default" />
       <updated>1606207330414</updated>
       <workItem from="1606207331453" duration="4047000" />
-      <workItem from="1606216862460" duration="3827000" />
+      <workItem from="1606216862460" duration="4780000" />
+      <workItem from="1606293332018" duration="2419000" />
     </task>
+    <task id="LOCAL-00001" summary="update README.me">
+      <created>1606234752555</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606234752555</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +133,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update README.me" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.me" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606232754594">
@@ -110,5 +148,21 @@
       <screen x="1920" y="-158" width="1080" height="1920" />
     </state>
     <state x="2301" y="601" key="#com.intellij.fileTypes.FileTypeChooser/1920.-158.1080.1920/0.0.1920.1080@1920.-158.1080.1920" timestamp="1606207621751" />
+    <state width="1036" height="569" key="GridCell.Tab.0.bottom" timestamp="1606295170302">
+      <screen x="1920" y="-158" width="1080" height="1920" />
+    </state>
+    <state width="1036" height="569" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.-158.1080.1920@1920.-158.1080.1920" timestamp="1606295170302" />
+    <state width="1036" height="569" key="GridCell.Tab.0.center" timestamp="1606295170301">
+      <screen x="1920" y="-158" width="1080" height="1920" />
+    </state>
+    <state width="1036" height="569" key="GridCell.Tab.0.center/0.0.1920.1080/1920.-158.1080.1920@1920.-158.1080.1920" timestamp="1606295170301" />
+    <state width="1036" height="569" key="GridCell.Tab.0.left" timestamp="1606295170300">
+      <screen x="1920" y="-158" width="1080" height="1920" />
+    </state>
+    <state width="1036" height="569" key="GridCell.Tab.0.left/0.0.1920.1080/1920.-158.1080.1920@1920.-158.1080.1920" timestamp="1606295170300" />
+    <state width="1036" height="569" key="GridCell.Tab.0.right" timestamp="1606295170301">
+      <screen x="1920" y="-158" width="1080" height="1920" />
+    </state>
+    <state width="1036" height="569" key="GridCell.Tab.0.right/0.0.1920.1080/1920.-158.1080.1920@1920.-158.1080.1920" timestamp="1606295170301" />
   </component>
 </project>
