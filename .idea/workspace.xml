@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bdd4f2f-362a-482b-93e1-8de7d5a3ef05" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/deploy.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/deploy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/leetcode/9.回文数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/leetcode/1.两数之和.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/leetcode/1.两数之和.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +64,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/articles/leetcode" />
     <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -106,7 +111,10 @@
       <updated>1606207330414</updated>
       <workItem from="1606207331453" duration="4047000" />
       <workItem from="1606216862460" duration="4780000" />
-      <workItem from="1606293332018" duration="4585000" />
+      <workItem from="1606293332018" duration="5035000" />
+      <workItem from="1606298470644" duration="524000" />
+      <workItem from="1606299016449" duration="185000" />
+      <workItem from="1606384953053" duration="2515000" />
     </task>
     <task id="LOCAL-00001" summary="update README.me">
       <created>1606234752555</created>
@@ -120,6 +128,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -142,25 +160,34 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="304" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1606232754594" />
-    <state x="2301" y="601" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606207621751">
-      <screen x="1920" y="-158" width="1080" height="1920" />
+    <state x="593" y="415" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606400930479">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="593" y="415" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1606400930479" />
     <state x="2301" y="601" key="#com.intellij.fileTypes.FileTypeChooser/1920.-158.1080.1920/0.0.1920.1080@1920.-158.1080.1920" timestamp="1606207621751" />
-    <state width="1036" height="673" key="GridCell.Tab.0.bottom" timestamp="1606295842884">
+    <state width="1036" height="673" key="GridCell.Tab.0.bottom" timestamp="1606298456919">
       <screen x="1920" y="-158" width="1080" height="1920" />
     </state>
-    <state width="1036" height="673" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.-158.1080.1920@1920.-158.1080.1920" timestamp="1606295842884" />
-    <state width="1036" height="673" key="GridCell.Tab.0.center" timestamp="1606295842882">
+    <state width="1036" height="673" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.-158.1080.1920@1920.-158.1080.1920" timestamp="1606298456919" />
+    <state width="1036" height="673" key="GridCell.Tab.0.center" timestamp="1606298456917">
       <screen x="1920" y="-158" width="1080" height="1920" />
     </state>
-    <state width="1036" height="673" key="GridCell.Tab.0.center/0.0.1920.1080/1920.-158.1080.1920@1920.-158.1080.1920" timestamp="1606295842882" />
-    <state width="1036" height="673" key="GridCell.Tab.0.left" timestamp="1606295842881">
+    <state width="1036" height="673" key="GridCell.Tab.0.center/0.0.1920.1080/1920.-158.1080.1920@1920.-158.1080.1920" timestamp="1606298456917" />
+    <state width="1036" height="673" key="GridCell.Tab.0.left" timestamp="1606298456916">
       <screen x="1920" y="-158" width="1080" height="1920" />
     </state>
-    <state width="1036" height="673" key="GridCell.Tab.0.left/0.0.1920.1080/1920.-158.1080.1920@1920.-158.1080.1920" timestamp="1606295842881" />
-    <state width="1036" height="673" key="GridCell.Tab.0.right" timestamp="1606295842883">
+    <state width="1036" height="673" key="GridCell.Tab.0.left/0.0.1920.1080/1920.-158.1080.1920@1920.-158.1080.1920" timestamp="1606298456916" />
+    <state width="1036" height="673" key="GridCell.Tab.0.right" timestamp="1606298456918">
       <screen x="1920" y="-158" width="1080" height="1920" />
     </state>
-    <state width="1036" height="673" key="GridCell.Tab.0.right/0.0.1920.1080/1920.-158.1080.1920@1920.-158.1080.1920" timestamp="1606295842883" />
+    <state width="1036" height="673" key="GridCell.Tab.0.right/0.0.1920.1080/1920.-158.1080.1920@1920.-158.1080.1920" timestamp="1606298456918" />
+    <state x="1950" y="417" width="952" height="859" key="IDE.errors.dialog" timestamp="1606385052068">
+      <screen x="1920" y="-158" width="1080" height="1920" />
+    </state>
+    <state x="1950" y="417" width="952" height="859" key="IDE.errors.dialog/1920.-158.1080.1920/0.0.1920.1080@1920.-158.1080.1920" timestamp="1606385052068" />
+    <state x="1999" y="452" key="SettingsEditor" timestamp="1606298989688">
+      <screen x="1920" y="-158" width="1080" height="1920" />
+    </state>
+    <state x="1999" y="452" key="SettingsEditor/0.0.1920.1080/1920.-158.1080.1920@1920.-158.1080.1920" timestamp="1606298989688" />
   </component>
 </project>

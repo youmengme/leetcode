@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "serve": "docsify serve --open",
+    "dev": "docsify serve --open",
     "deploy": "node ./lib/deploy.js"
   },
   "dependencies": {
