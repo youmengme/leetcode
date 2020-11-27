@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bdd4f2f-362a-482b-93e1-8de7d5a3ef05" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/articles/leetcode/9.回文数.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/leetcode/1.两数之和.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/leetcode/1.两数之和.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/leetcode/9.回文数.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/leetcode/9.回文数.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +45,9 @@
         <option value="https://github.com/youmengme/leetcode" />
       </set>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../leetcode/leetcode/editor/cn/[9]回文数.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1kjHxsQgG6YNXxRjeI5AkPjnAJx" />
   <component name="ProjectViewState">
@@ -114,7 +114,8 @@
       <workItem from="1606293332018" duration="5035000" />
       <workItem from="1606298470644" duration="524000" />
       <workItem from="1606299016449" duration="185000" />
-      <workItem from="1606384953053" duration="2515000" />
+      <workItem from="1606384953053" duration="3532000" />
+      <workItem from="1606442466465" duration="29000" />
     </task>
     <task id="LOCAL-00001" summary="update README.me">
       <created>1606234752555</created>
@@ -181,9 +182,10 @@
       <screen x="1920" y="-158" width="1080" height="1920" />
     </state>
     <state width="1036" height="673" key="GridCell.Tab.0.right/0.0.1920.1080/1920.-158.1080.1920@1920.-158.1080.1920" timestamp="1606298456918" />
-    <state x="1950" y="417" width="952" height="859" key="IDE.errors.dialog" timestamp="1606385052068">
-      <screen x="1920" y="-158" width="1080" height="1920" />
+    <state x="47" y="314" width="1481" height="496" key="IDE.errors.dialog" timestamp="1606402925848">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="47" y="314" width="1481" height="496" key="IDE.errors.dialog/0.0.1680.1050@0.0.1680.1050" timestamp="1606402925848" />
     <state x="1950" y="417" width="952" height="859" key="IDE.errors.dialog/1920.-158.1080.1920/0.0.1920.1080@1920.-158.1080.1920" timestamp="1606385052068" />
     <state x="1999" y="452" key="SettingsEditor" timestamp="1606298989688">
       <screen x="1920" y="-158" width="1080" height="1920" />
