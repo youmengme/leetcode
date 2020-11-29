@@ -4,7 +4,7 @@
   "scripts": {
     "serve": "docsify serve --open",
     "dev": "docsify serve --open",
-    "deploy": "nodemon ./lib/deploy.js",
+    "deploy": "node ./lib/deploy.js",
     "test": "nodemon ./lib/generate-directory.js --watch"
   },
   "dependencies": {
