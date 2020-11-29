@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bdd4f2f-362a-482b-93e1-8de7d5a3ef05" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/articles/leetcode/20.有效的括号.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/generate-directory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/leetcode/1.两数之和.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +126,7 @@
       <workItem from="1606384953053" duration="3532000" />
       <workItem from="1606442466465" duration="249000" />
       <workItem from="1606447544413" duration="2338000" />
-      <workItem from="1606630525137" duration="4663000" />
+      <workItem from="1606630525137" duration="4730000" />
     </task>
     <task id="LOCAL-00001" summary="update README.me">
       <created>1606234752555</created>
@@ -179,26 +178,26 @@
     <state x="593" y="415" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1606400930479" />
     <state x="2358" y="95" key="#com.intellij.fileTypes.FileTypeChooser/1680.-323.1920.1057/0.23.1680.1027@1680.-323.1920.1057" timestamp="1606643177876" />
     <state x="2301" y="601" key="#com.intellij.fileTypes.FileTypeChooser/1920.-158.1080.1920/0.0.1920.1080@1920.-158.1080.1920" timestamp="1606207621751" />
-    <state width="949" height="327" key="GridCell.Tab.0.bottom" timestamp="1606642944485">
+    <state width="949" height="327" key="GridCell.Tab.0.bottom" timestamp="1606644781212">
       <screen x="1680" y="-323" width="1920" height="1057" />
     </state>
     <state width="1036" height="673" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.-158.1080.1920@1920.-158.1080.1920" timestamp="1606298456919" />
-    <state width="949" height="327" key="GridCell.Tab.0.bottom/1680.-323.1920.1057/0.23.1680.1027@1680.-323.1920.1057" timestamp="1606642944485" />
-    <state width="949" height="327" key="GridCell.Tab.0.center" timestamp="1606642944484">
+    <state width="949" height="327" key="GridCell.Tab.0.bottom/1680.-323.1920.1057/0.23.1680.1027@1680.-323.1920.1057" timestamp="1606644781212" />
+    <state width="949" height="327" key="GridCell.Tab.0.center" timestamp="1606644781211">
       <screen x="1680" y="-323" width="1920" height="1057" />
     </state>
     <state width="1036" height="673" key="GridCell.Tab.0.center/0.0.1920.1080/1920.-158.1080.1920@1920.-158.1080.1920" timestamp="1606298456917" />
-    <state width="949" height="327" key="GridCell.Tab.0.center/1680.-323.1920.1057/0.23.1680.1027@1680.-323.1920.1057" timestamp="1606642944484" />
-    <state width="949" height="327" key="GridCell.Tab.0.left" timestamp="1606642944483">
+    <state width="949" height="327" key="GridCell.Tab.0.center/1680.-323.1920.1057/0.23.1680.1027@1680.-323.1920.1057" timestamp="1606644781211" />
+    <state width="949" height="327" key="GridCell.Tab.0.left" timestamp="1606644781211">
       <screen x="1680" y="-323" width="1920" height="1057" />
     </state>
     <state width="1036" height="673" key="GridCell.Tab.0.left/0.0.1920.1080/1920.-158.1080.1920@1920.-158.1080.1920" timestamp="1606298456916" />
-    <state width="949" height="327" key="GridCell.Tab.0.left/1680.-323.1920.1057/0.23.1680.1027@1680.-323.1920.1057" timestamp="1606642944483" />
-    <state width="949" height="327" key="GridCell.Tab.0.right" timestamp="1606642944484">
+    <state width="949" height="327" key="GridCell.Tab.0.left/1680.-323.1920.1057/0.23.1680.1027@1680.-323.1920.1057" timestamp="1606644781211" />
+    <state width="949" height="327" key="GridCell.Tab.0.right" timestamp="1606644781211">
       <screen x="1680" y="-323" width="1920" height="1057" />
     </state>
     <state width="1036" height="673" key="GridCell.Tab.0.right/0.0.1920.1080/1920.-158.1080.1920@1920.-158.1080.1920" timestamp="1606298456918" />
-    <state width="949" height="327" key="GridCell.Tab.0.right/1680.-323.1920.1057/0.23.1680.1027@1680.-323.1920.1057" timestamp="1606642944484" />
+    <state width="949" height="327" key="GridCell.Tab.0.right/1680.-323.1920.1057/0.23.1680.1027@1680.-323.1920.1057" timestamp="1606644781211" />
     <state x="47" y="314" width="1481" height="496" key="IDE.errors.dialog" timestamp="1606402925848">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
