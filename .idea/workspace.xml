@@ -23,7 +23,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/leetcode/1.两数之和.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/leetcode/9.回文数.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/leetcode/9.回文数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/deploy.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/deploy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/generate-directory.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/generate-directory.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +129,7 @@
       <workItem from="1606384953053" duration="3532000" />
       <workItem from="1606442466465" duration="249000" />
       <workItem from="1606447544413" duration="2338000" />
-      <workItem from="1606630525137" duration="4730000" />
+      <workItem from="1606630525137" duration="10664000" />
     </task>
     <task id="LOCAL-00001" summary="update README.me">
       <created>1606234752555</created>
