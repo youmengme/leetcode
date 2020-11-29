@@ -4,8 +4,7 @@
   "scripts": {
     "serve": "docsify serve --open",
     "dev": "docsify serve --open",
-    "deploy": "node ./lib/deploy.js",
-    "test": "nodemon ./lib/generate-directory.js --watch"
+    "deploy": "node ./lib/deploy.js"
   },
   "dependencies": {
     "chalk": "^4.1.0",
