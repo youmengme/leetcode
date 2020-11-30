@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bdd4f2f-362a-482b-93e1-8de7d5a3ef05" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/articles/leetcode/7.整数反转.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/articles/学习总结/node中path模块的使用总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/leetcode/1672.最富有客户的资产总量.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,15 +70,15 @@
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/articles/leetcode" />
-      <recent name="$PROJECT_DIR$/articles" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/articles/学习总结" />
       <recent name="$PROJECT_DIR$/articles/leetcode" />
       <recent name="$PROJECT_DIR$/articles" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/articles/leetcode" />
+      <recent name="$PROJECT_DIR$/articles" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.[20]有效的括号.js">
@@ -127,7 +126,8 @@
       <workItem from="1606442466465" duration="249000" />
       <workItem from="1606447544413" duration="2338000" />
       <workItem from="1606630525137" duration="11903000" />
-      <workItem from="1606708867085" duration="849000" />
+      <workItem from="1606708867085" duration="1529000" />
+      <workItem from="1606724245069" duration="267000" />
     </task>
     <task id="LOCAL-00001" summary="update README.me">
       <created>1606234752555</created>
